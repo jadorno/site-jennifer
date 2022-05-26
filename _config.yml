@@ -1,0 +1,19 @@
+host: 0.0.0.0
+destination: /usr/src/build
+keep_files: [archive]
+collections:
+  officers:
+    order:
+      - howard-bryant.md
+      - orourke-timothy.md
+      - achor-brittany.md
+      - shorten-danielle.md
+      - roth-maddie.md
+      - lozito-joseph.md
+      - leilani-kayla.md
+      - borges-samantha.md
+      - taylor-nathaniel.md
+      - adorno-jorge.md
+      - anzalone-patricia.md
+      - diaz-steven.md
+      - collins-bill.md

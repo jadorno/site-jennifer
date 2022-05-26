@@ -1,0 +1,23 @@
+{
+	"version": "1.0.0",
+	"tasks": [
+		{
+			"label": "npm start",
+			"type": "shell",
+			"command": "cd /workspaces/1648060880/react/ && npm start"
+		},
+		{
+			"label": "npm run build",
+			"type": "shell",
+			"command": "cd /workspaces/1648060880/react/ && npm run build"
+		},
+		{
+			"label": "start gunicorn",
+			"type": "shell",
+			"command": "cd /workspaces/1648060880/python/ && gunicorn server:app --config config.py"
+		}
+
+	]
+}
+
+
