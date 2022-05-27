@@ -2,21 +2,15 @@
 	"version": "1.0.0",
 	"tasks": [
 		{
-			"label": "npm start",
+			"label": "bundle exec jekyll serve",
 			"type": "shell",
-			"command": "cd /workspaces/1648060880/react/ && npm start"
+			"command": "bundle exec jekyll serve --livereload"
 		},
 		{
-			"label": "npm run build",
+			"label": "bundle exec jekyll build",
 			"type": "shell",
-			"command": "cd /workspaces/1648060880/react/ && npm run build"
-		},
-		{
-			"label": "start gunicorn",
-			"type": "shell",
-			"command": "cd /workspaces/1648060880/python/ && gunicorn server:app --config config.py"
+			"command": "bundle exec jekyll build"
 		}
-
 	]
 }
 
