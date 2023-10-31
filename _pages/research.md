@@ -1,6 +1,5 @@
 ---
-layout: template1
-title: Research
+permalink: /research/
 ---
 
 <div class="text-center">

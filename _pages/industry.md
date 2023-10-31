@@ -1,6 +1,5 @@
 ---
-layout: template1
-title: Industry
+permalink: /industry/
 ---
 
 <div class="text-center">

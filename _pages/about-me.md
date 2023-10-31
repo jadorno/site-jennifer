@@ -1,6 +1,5 @@
 ---
-layout: template1
-title: Academic
+permalink: /about/
 ---
 
 <div class="text-center">

@@ -1,6 +1,5 @@
 ---
-layout: template1
-title: About Me
+permalink: /academic/
 ---
 
 <div class="text-center">

@@ -1,6 +1,5 @@
 ---
-layout: template2
-title: Social
+permalink: /social/
 ---
 
 <div class="container">

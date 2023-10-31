@@ -1,6 +1,5 @@
 ---
-layout: template2
-title: Media
+permalink: /media/
 ---
 
 

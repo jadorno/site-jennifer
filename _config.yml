@@ -1,3 +1,4 @@
 host: 0.0.0.0
-destination: /workspaces/me-adorno-jennifer/build
-keep_files: [archive]
+destination: /workspaces/jadorno-site-jennifer/build
+theme: minimal-mistakes-jekyll
+include: ["_pages"]
