@@ -1,18 +1,27 @@
 {
-	"name": "me-adorno-jennifer",
+	"name": "jadorno-site-jennifer",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": { "VARIANT": "bullseye" }
 	},
 
-	// Set *default* container specific settings.json values on container create.
-	"settings": {},
-
-	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [
-		"dbaeumer.vscode-eslint",
-		"eamodio.gitlens"
-	],
+	"customizations": {
+		"codespaces": {
+			"extensions": [
+				"eamodio.gitlens",
+				"streetsidesoftware.code-spell-checker",
+			]
+		},
+		// Add the IDs of extensions you want installed when the container is created.
+		"vscode": {
+			"extensions": [
+				"eamodio.gitlens",
+				"streetsidesoftware.code-spell-checker"
+			]
+		},
+		// Set *default* container specific settings.json values on container create.
+		"settings": {}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [],
