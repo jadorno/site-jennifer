@@ -1,4 +1,33 @@
 host: 0.0.0.0
 destination: /workspaces/jadorno-site-jennifer/build
-theme: minimal-mistakes-jekyll
 include: ["_pages"]
+
+locale                   : "en-US"
+title                    : 
+title_separator          : 
+subtitle                 : 
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dark" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+
+author:
+  name             : "Jennifer Adorno, Ph.D."
+  avatar           : "/assets/images/profile.jpeg"
+  bio              : "she/her/hers <br /> Pending Graduation <br /> University of South Florida"
+  location         : 
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jenniferadorno/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/jadorno"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-alt"
+      url: "https://github.com/jadorno"
