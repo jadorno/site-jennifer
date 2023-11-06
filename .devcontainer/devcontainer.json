@@ -10,13 +10,15 @@
 			"extensions": [
 				"eamodio.gitlens",
 				"streetsidesoftware.code-spell-checker",
+				"GitHub.vscode-github-actions"
 			]
 		},
 		// Add the IDs of extensions you want installed when the container is created.
 		"vscode": {
 			"extensions": [
 				"eamodio.gitlens",
-				"streetsidesoftware.code-spell-checker"
+				"streetsidesoftware.code-spell-checker",
+				"GitHub.vscode-github-actions"
 			]
 		},
 		// Set *default* container specific settings.json values on container create.
