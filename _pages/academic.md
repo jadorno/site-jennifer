@@ -3,7 +3,7 @@ permalink: /academic/
 classes: wide
 ---
 
-A PDF version of this document can be retrieved [here](https://google.com).
+A PDF version of this document can be retrieved [here](http://jadorno.com/docs/cv.pdf).
 
 ## Education
 
