@@ -1,9 +1,11 @@
 ---
-permalink: /academic/
+permalink: /experience/
 classes: wide
 ---
 
-A PDF version of this document can be retrieved [here](http://jadorno.com/docs/cv.pdf).
+# Curriculum Vitae
+
+A pdf version of this document can be retrieved [here](http://jadorno.com/docs/cv.pdf).
 
 ## Education
 
@@ -22,8 +24,6 @@ Capstone: Lightning Detection Network Monitoring<br/>
 Advisors: Marc Legault, Carmelo Miranda, Lillian Bras Cummings
 
 ## Publications
-
-Names may vary due to name change. [ORCID](https://orcid.org/0000-0002-6511-694X)
 
 ### Peer-Reviewed
 
@@ -148,3 +148,7 @@ Undergraduates: Vicky Zheng, Hailey Baez, Karla Marie Montañez, Xingyuan Li, Br
 * ACM Tapia Celebration of Diversity in Computing (Two Sigma 2019)
 * ACM Tapia Celebration of Diversity in Computing (IBM 2018)
 * Institute on Teaching and Mentoring (2016)
+
+## Related Links
+
+[ORCID](https://orcid.org/0000-0002-6511-694X)

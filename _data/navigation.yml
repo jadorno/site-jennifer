@@ -3,9 +3,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Academic"
-    url: /academic/
-  - title: "Industry"
-    url: /industry/
-  - title: "Research"
-    url: /research/
+  - title: "Experience"
+    url: /experience/
+  - title: "Skills"
+    url: /skills/
+  - title: "Interests"
+    url: /interests/

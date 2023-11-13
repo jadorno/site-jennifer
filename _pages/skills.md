@@ -1,6 +1,11 @@
 ---
-permalink: /industry/
+permalink: /skills/
 ---
+
+# Research Skill Set 
+
+
+# Technical Skill Set
 
 #### Under Construction
 
