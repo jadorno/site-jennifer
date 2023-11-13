@@ -17,6 +17,14 @@ defaults:
     values:
       layout: single
 
+atom_feed:
+  hide: true
+footer:
+  links:
+    - label: "Build-23.11.12"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/jadorno/site-jennifer"
+
 author:
   name             : "Jennifer Adorno, Ph.D."
   avatar           : "/assets/images/profile.jpeg"
