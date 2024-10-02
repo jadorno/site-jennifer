@@ -1,5 +1,5 @@
 {
-	"name": "jadorno-site-jennifer",
+	"name": "site-jennifer",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": { "VARIANT": "bullseye" }
@@ -9,16 +9,14 @@
 		"codespaces": {
 			"extensions": [
 				"eamodio.gitlens",
-				"streetsidesoftware.code-spell-checker",
-				"GitHub.vscode-github-actions"
+				"streetsidesoftware.code-spell-checker"
 			]
 		},
 		// Add the IDs of extensions you want installed when the container is created.
 		"vscode": {
 			"extensions": [
 				"eamodio.gitlens",
-				"streetsidesoftware.code-spell-checker",
-				"GitHub.vscode-github-actions"
+				"streetsidesoftware.code-spell-checker"
 			]
 		},
 		// Set *default* container specific settings.json values on container create.
