@@ -1,5 +1,5 @@
 ---
-permalink: /skills/
+permalink: /research/
 classes: wide
 ---
 

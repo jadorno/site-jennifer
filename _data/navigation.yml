@@ -3,9 +3,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Experience"
-    url: /experience/
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
   - title: "Skills"
     url: /skills/
-  - title: "Interests"
-    url: /interests/

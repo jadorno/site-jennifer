@@ -1,5 +1,5 @@
 ---
-permalink: /experience/
+permalink: /cv/
 classes: wide
 ---
 
