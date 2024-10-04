@@ -1,12 +1,12 @@
 host: 0.0.0.0
-destination: /workspaces/jadorno-site-jennifer/build
+destination: /workspaces/site-jennifer/build
 include: ["_pages"]
 
 locale                   : "en-US"
 title                    : 
 title_separator          : 
 subtitle                 : 
-youtube_featured         : "pr57pGuRrao"
+youtube_featured         : "bm0nLJuRNbw"
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -21,22 +21,28 @@ atom_feed:
   hide: true
 footer:
   links:
-    - label: "Build-23.11.12"
+    - label: "Build-24.10.03"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/jadorno/site-jennifer"
 
 author:
   name             : "Jennifer Adorno, Ph.D."
   avatar           : "/assets/images/profile.jpeg"
-  bio              : "she/her/hers <br /> Pending Graduation <br /> University of South Florida"
+  bio              : "she/her/hers <br /> Research Scientist <br /> Systems Architect"
   location         : 
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jenniferadorno/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/jadorno"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=9AZVy5MAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-6511-694X"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-alt"
       url: "https://github.com/jadorno"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/jadorno"
