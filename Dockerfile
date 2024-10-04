@@ -10,16 +10,16 @@ RUN gem install bundler \
     && bundle config --global frozen 1 \
     && gem install jekyll
 
-WORKDIR /workspaces/jadorno-site-jennifer
+WORKDIR /workspaces/site-jennifer
 
-COPY .devcontainer/Gemfile /workspaces/jadorno-site-jennifer/Gemfile
-COPY .devcontainer/Gemfile.lock /workspaces/jadorno-site-jennifer/Gemfile.lock
+COPY .devcontainer/Gemfile /workspaces/site-jennifer/Gemfile
+COPY .devcontainer/Gemfile.lock /workspaces/site-jennifer/Gemfile.lock
 RUN bundle install
 
-COPY . /workspaces/jadorno-site-jennifer
+COPY . /workspaces/site-jennifer
 
 RUN bundle exec jekyll build
 
 FROM nginx:stable-alpine
 
-COPY --from=build /workspaces/jadorno-site-jennifer/build /usr/share/nginx/html
+COPY --from=build /workspaces/site-jennifer/build /usr/share/nginx/html
