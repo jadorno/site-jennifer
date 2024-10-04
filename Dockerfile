@@ -23,3 +23,4 @@ RUN bundle exec jekyll build
 FROM nginx:stable-alpine
 
 COPY --from=build /workspaces/site-jennifer/build /usr/share/nginx/html
+COPY config/nginx.conf /etc/nginx/nginx.conf
