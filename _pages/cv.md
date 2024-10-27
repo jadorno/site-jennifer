@@ -1,6 +1,5 @@
 ---
 permalink: /cv/
-classes: wide
 ---
 
 # Curriculum Vitae
@@ -167,23 +166,3 @@ Undergraduates: Vicky Zheng, Hailey Baez, Karla Marie Montañez, Xingyuan Li, Br
 * Great Minds in STEM Scholarship (Intel 2019)
 * Florida Georgia Louis Stokes for Alliance Minority Participation (FGLSAMP) Bridge to Doctorate Scholarship (2018)
 * Alfred P. Sloan Foundation Minority Ph.D. Scholarship (2016)
-
-## Travel Awards
-
-* Grace Hopper Celebration (AccessComputing 2023)
-* ACM Tapia Celebration of Diversity in Computing (2023)
-* IEEE VIS Inclusivity & Diversity Travel Scholarship (2022)
-* Institute on Teaching and Mentoring (2022)
-* ACM Tapia Celebration of Diversity in Computing (AccessComputing 2022)
-* CRA-WP Grad Cohort Workshop for Women (2022)
-* Institute on Teaching and Mentoring (2021)
-* CMD-IT Academic Careers Workshop (2021)
-* CRA-WP Grad Cohort Workshop for Inclusion, Diversity, Equity, Accessibility, and Leadership Skills (2021)
-* IEEE International Conference on Pervasive Computing and Communication (PerCom 2021)
-* Institute on Teaching and Mentoring (2020)
-* Grace Hopper Celebration (2020)
-* CRA-WP Grad Cohort Workshop for Inclusion, Diversity, Equity, Accessibility, and Leadership Skills (2020)
-* ACM Tapia Celebration of Diversity in Computing (Two Sigma 2019)
-* ACM Tapia Celebration of Diversity in Computing (IBM 2018)
-* Institute on Teaching and Mentoring (2016)
-
