@@ -21,7 +21,7 @@ Capstone: Lightning Detection Network Monitoring<br/>
 Advisors: Marc Legault, Carmelo Miranda, Lillian Bras Cummings
 
 ## Memberships
-USF Ubiquitous Sensing Lab and REU Site
+USF Ubiquitous Sensing Lab and REU Site (2016 - 2023)
 
 ## Collaborations
 
@@ -83,42 +83,42 @@ Introduction to Machine Learning (REU Workshop) (Summer 2019)
 ## Academic Roles
 
 **Teaching**<br/>
-University of South Florida (01/2020 - 05/2021)<br/>
+University of South Florida (2020 - 2021)<br/>
 COP 4656: Software Development for Mobile Devices (online) (Spring 2021)<br/>
 COP 4656: Software Development for Mobile Devices (online/in-person) (Spring 2020)<br/>
 
 **Teaching Assistant**<br/>
-University of South Florida (01/2016 - 05/2020)<br/>
+University of South Florida (2016 - 2020)<br/>
 Courses: Introduction to Artificial Intelligence (graduate & undergraduate), Introduction to Hadoop and Big Data, Software Development for Mobile Devices, Advanced Program Design, Computer Networks 1, Software Engineering, Introduction to Discrete Structures, Operating Systems for IT, Ethics for IT, Web Design for IT
 
 ## Technical Roles
 
 **Software Systems Architect**<br/>
-University of South Florida (01/2024 - 10/2024) <sup>[\[2\]](#colab-usf-qcg)[\[3\]](#colab-usf-cseit)</sup><br/>
+University of South Florida (2024) <sup>[\[2\]](#colab-usf-qcg)[\[3\]](#colab-usf-cseit)</sup><br/>
 Services: virtualized software labs, remote hardware labs, high-performance computing systems
 
 **Virtual Desktop Infrastructure (VDI) Engineer** (as Graduate Assistant)<br/>
-University of South Florida (05/2021 - 12/2023) <sup>[\[3\]](#colab-usf-cseit)</sup><br/>
+University of South Florida (2021 - 2023) <sup>[\[3\]](#colab-usf-cseit)</sup><br/>
 Services: hypervisor management, web-based remote desktop, service orchestration, troubleshooting, classroom deployments, course template preparation, staff training
 
 **System Administrator** (as Graduate Assistant)<br/>
-University of South Florida (05/2020 - 05/2021) <sup>[\[3\]](#colab-usf-cseit)</sup><br/>
+University of South Florida (2020 - 2021) <sup>[\[3\]](#colab-usf-cseit)</sup><br/>
 Services: linux server administration, network administration, virtualization, physical-to-virtual (P2V) migrations, containerization, cctv, vpn, it helpdesk
 
 **DevOps Engineer** (as Research Assistant & Graduate Assistant)<br/>
-University of South Florida (05/2017 - 12/2023) <sup>[\[5\]](#colab-usf-vis)[\[6\]](#colab-usf-nursing)[\[7\]](#colab-usf-cutr)</sup><br/>
+University of South Florida (2017 - 2023) <sup>[\[5\]](#colab-usf-vis)[\[6\]](#colab-usf-nursing)[\[7\]](#colab-usf-cutr)</sup><br/>
 Services: continuous delivery (CD) pipelines, artifacts generation, container infrastructure management, data security, service migrations, hosting, long-term support
 
 **Software Engineer** (as Research Assistant & Graduate Assistant)<br/>
-University of South Florida (08/2016 - 05/2021) <sup>[\[5\]](#colab-usf-vis)[\[6\]](#colab-usf-nursing)[\[7\]](#colab-usf-cutr)</sup><br/>
+University of South Florida (2016 - 2021) <sup>[\[5\]](#colab-usf-vis)[\[6\]](#colab-usf-nursing)[\[7\]](#colab-usf-cutr)</sup><br/>
 Services: ubiquitous sensing data capture and analysis, mobile application development, single page application (SPA) development, design, authentication, encryption, third-party integrations, full-stack software development
 
 **Software Engineer** (as Research Assistant)<br/>
-University of Puerto Rico (12/2014 - 12/2015) <sup>[\[8\]](#colab-uprb-cs)[\[9\]](#colab-uprb-phy)</sup><br/>
+University of Puerto Rico (2014 - 2015) <sup>[\[8\]](#colab-uprb-cs)[\[9\]](#colab-uprb-phy)</sup><br/>
 Services: computer graphics development, data archiving, real-time data analysis, data mining, computer vision development
 
 **System Administrator**<br/>
-Farmacia Giusti Inc. (05/2011 - current)<br/>
+Farmacia Giusti Inc. (2011 - current)<br/>
 Services: linux server administration, network administration, virtualization, data security, cctv, multi site-to-site vpn, email, web, purchasing, it helpdesk
 
 ## Service & Volunteering 
@@ -128,11 +128,11 @@ University of South Florida (Morsani College of Medicine) (2022 - 2024)<br/>
 Roles: panelist, advocate
 
 **REU Mentor/Assistant**<br/>
-University of South Florida (05/2016 - 08/2019)<br/>
+University of South Florida (2016 - 2019)<br/>
 Roles: mentored students, coordinated events, held workshops, handled undergraduate applications, managed day-to-day operations
 
 **Technology Officer**<br/>
-Fundación Retinitis Pigmentosa de Puerto Rico (05/2011 - current)<br/>
+Fundación Retinitis Pigmentosa de Puerto Rico (2011 - current)<br/>
 Services: email services, web services, administrative duties
 
 ## Mentoring
