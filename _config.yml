@@ -43,6 +43,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github-alt"
       url: "https://github.com/jadorno"
-    - label: "Twitter"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/jadorno"
+      url: "https://bsky.app/profile/jadorno.bsky.social"
