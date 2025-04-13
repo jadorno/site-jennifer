@@ -137,12 +137,11 @@ Services: email services, web services, administrative duties
 
 ## Mentoring
 
-Graduate: Pavia Bera, Dominic Chillemi<sup>*</sup>, Kok Cheng Tan<sup>*</sup>, Neil Sambhu<sup>*</sup>
+Graduate: Pavia Bera, Dominic Chillemi<sup>1</sup>, Kok Cheng Tan<sup>1</sup>, Neil Sambhu<sup>1</sup>
 
+Undergraduates: Vicky Zheng, Hailey Baez, Karla Marie Montañez, Xingyuan Li, Brian Torres, Zuleyka Gonzalez, Carlos Alvarado, Jenny Sánchez<sup>2</sup>, Osniel Quintana<sup>2</sup>, Kin Ng Lugo<sup>2</sup>, Azim Ibragimov <sup>2</sup>
 
-Undergraduates: Vicky Zheng, Hailey Baez, Karla Marie Montañez, Xingyuan Li, Brian Torres, Zuleyka Gonzalez, Carlos Alvarado, Jenny Sánchez<sup>**</sup>, Osniel Quintana<sup>**</sup>, Kin Ng Lugo<sup>**</sup> 
-
-<sup>* Technical ** Supervised</sup>
+<sup>1 - Technical, 2 - Supervised</sup>
 
 ## Certificates
 
