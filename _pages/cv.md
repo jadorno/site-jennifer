@@ -25,7 +25,7 @@ USF Ubiquitous Sensing Lab and REU Site (2016 - 2023)
 
 ## Collaborations
 
-USF Nano Computing Research Group (2024) <sup><a id="colab-usf-ncrg">[1]</a></sup><br/>
+USF Nano Computing Research Group (2024 - 2025) <sup><a id="colab-usf-ncrg">[1]</a></sup><br/>
 USF Quantum Chiraltronics Group (2024) <sup><a id="colab-usf-qcg">[2]</a></sup><br/>
 USF Computer Science IT Workgroup (2020 - 2024) <sup><a id="colab-usf-cseit">[3]</a></sup><br/>
 UNC VisuaLab (2023) <sup><a id="colab-unc-vis">[4]</a></sup><br/>
@@ -39,7 +39,7 @@ UPR-B Physics Department (2014 - 2015) <sup><a id="colab-uprb-phy">[9]</a></sup>
 
 ### Peer-Reviewed
 
-Ghulam Jilani Quadri, Arran Zeyu Wang, Zhehao Wang, **Jennifer Adorno**, Paul Rosen, and Danielle Szafir: ”Do You See What I See? A Qualitative Study Eliciting High-Level Visualization Comprehension”. CHI 2024 <sup>[\[4\]](#colab-unc-vis)</sup>
+Pavia Bera, Sabrina Hassan Moon, **Jennifer Adorno**, Dayane Alfenas Reis, and Sanjukta Bhanja: "Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accelerated Reflex Memory". Neurocomputing (2025) (Submitted) <sup>[\[1\]](#colab-usf-ncrg)</sup>
 
 Ghulam Jilani Quadri, **Jennifer Adorno**, Brenton M. Wiernik, Paul Rosen: "Automatic Scatterplot Design Optimization for Clustering Identification”. IEEE Transactions on Visualization and Computer Graphics, 2022 <sup>[\[5\]](#colab-usf-vis)</sup>
  
