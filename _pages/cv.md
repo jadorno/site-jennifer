@@ -39,36 +39,37 @@ UPR-B Physics Department (2014 - 2015) <sup><a id="colab-uprb-phy">[9]</a></sup>
 
 ### Peer-Reviewed
 
-Pavia Bera, Sabrina Hassan Moon, **Jennifer Adorno**, Dayane Alfenas Reis, and Sanjukta Bhanja: "Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accelerated Reflex Memory". Neurocomputing (2025) (Submitted) <sup>[\[1\]](#colab-usf-ncrg)</sup>
+Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accelerated Reflex Memory • Pavia Bera, Sabrina Hassan Moon, **Jennifer Adorno**, Dayane Alfenas Reis, and Sanjukta Bhanja • Neurocomputing, 2025 (Submitted) <sup>[\[1\]](#colab-usf-ncrg)</sup>
 
-Ghulam Jilani Quadri, **Jennifer Adorno**, Brenton M. Wiernik, Paul Rosen: "Automatic Scatterplot Design Optimization for Clustering Identification”. IEEE Transactions on Visualization and Computer Graphics, 2022 <sup>[\[5\]](#colab-usf-vis)</sup>
- 
-Minh Pham, Hung Nguyen, Long Dang, **Jennifer Adorno**, "Compressive Features in Offline Reinforcement Learning for Recommender Systems”. 2021 IEEE International Conference on Big Data (Big Data), Orlando, FL, USA, 2021
+[Do You See What I See? A Qualitative Study Eliciting High-Level Visualization Comprehension](https://dl.acm.org/doi/10.1145/3613904.3642813) • Ghulam Jilani Quadri, Arran Zeyu Wang, Zhehao Wang, **Jennifer Adorno**, Paul Rosen, and Danielle Szafir • CHI Conference on Human Factors in Computing Systems, 2024. <sup>[\[4\]](#colab-unc-vis)</sup>
 
-**Jennifer Adorno**, Brian Torres Alvarado, Sean J. Barbeau, and Miguel Labrador, “Evaluating Models for Estimating Schedule Deviation in Public Transit”. 2021 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops).
+[Automatic Scatterplot Design Optimization for Clustering Identification](https://ieeexplore.ieee.org/document/9826389) • Ghulam Jilani Quadri, **Jennifer Adorno**, Brenton M. Wiernik and Paul Rosen • IEEE Transactions on Visualization and Computer Graphics, 2022. <sup>[\[5\]](#colab-usf-vis)</sup>
 
-Laureen Mack, Ponrathi Athilingam, **Jennifer Adorno**, "Health Literacy Impacts Knowledge and the Use of Education App in Heart Failure: A Pilot Study”. Cardiology & Vascular Research, 2021 <sup>[\[6\]](#colab-usf-nursing)</sup>
+[Compressive Features in Offline Reinforcement Learning for Recommender Systems](https://ieeexplore.ieee.org/document/9671419) • Minh Pham, Hung Nguyen, Long Dang and **Jennifer Adorno** • IEEE International Conference on Big Data (Big Data), 2021.
 
-**Jennifer Adorno**, Minh Pham, Sean J. Barbeau, Miguel A. Labrador, Robert L. Bertini, "Scalable Real-Time Transit Data Archiving: A Framework for Performance Assessment and Machine Learning Prediction", Transportation Research Board Annual Meeting, Washington DC, January 2019. <sup>[\[7\]](#colab-usf-cutr)</sup>
+[Evaluating Models for Estimating Schedule Deviation in Public Transit](https://ieeexplore.ieee.org/document/9431123) • **Jennifer Adorno**, Brian Torres Alvarado, Sean J. Barbeau, and Miguel Labrador • IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), 2021.
 
-**Jennifer Adorno**, Yueng de la Hoz, and Miguel A. Labrador. "Smartphone-based floor detection in unstructured and structured environments." 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops).
+[Health Literacy Impacts Knowledge and the Use of Education App in Heart Failure: A Pilot Study](https://www.scivisionpub.com/pdfs/health-literacy-impacts-knowledge-and-the-use-of-education-app-in-heart-failure-a-pilot-study-1924.pdf) • Laureen Mack, Ponrathi Athilingam and **Jennifer Adorno** • Cardiology & Vascular Research, 2021. <sup>[\[6\]](#colab-usf-nursing)</sup>
+
+[Scalable Real-Time Transit Data Archiving: A Framework for Performance Assessment and Machine Learning Prediction](https://annualmeeting.mytrb.org/InteractiveProgramArchive/Details/11525) • **Jennifer Adorno**, Minh Pham, Sean J. Barbeau, Miguel A. Labrador and Robert L. Bertini • Transportation Research Board Conference Proceedings (No. 55). 2019. <sup>[\[7\]](#colab-usf-cutr)</sup>
+
+[Smartphone-based floor detection in unstructured and structured environments](https://ieeexplore.ieee.org/document/7457136) • **Jennifer Adorno**, Yueng de la Hoz, and Miguel A. Labrador • IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), 2016.
 
 ### Technical Reports  
 
-Sean J. Barbeau, Minh Pham, **Jennifer Adorno**, Robert L. Bertini, "Improving Transportation Performance Measurement via Open Big Data Systems -- Phase 1 Transit”. Center for Transportation, Equity, Decisions and Dollars (CTEDD), 2020 <sup>[\[7\]](#colab-usf-cutr)</sup>
+[Improving Transportation Performance Measurement via Open Big Data Systems -- Phase 1 Transit](https://rosap.ntl.bts.gov/view/dot/54417) • Sean J. Barbeau, Minh Pham, **Jennifer Adorno** and Robert L. Bertini • Center for Transportation, Equity, Decisions and Dollars (CTEDD), 2020 <sup>[\[7\]](#colab-usf-cutr)</sup>
 
 ### Preprints
 
-Carlos Alvarado, Ghulam Jilani Quadri, **Jennifer Adorno**, Paul Rosen, ”A Case-Study on
-Variations Observed in Accelerometers Across Devices". CoRR abs/2207.03350, 2022 <sup>[\[5\]](#colab-usf-vis)</sup>
+[A Case-Study on Variations Observed in Accelerometers Across Devices](https://arxiv.org/abs/2207.03350) • Carlos Alvarado, Ghulam Jilani Quadri, **Jennifer Adorno** and Paul Rosen • CoRR abs/2207.03350, 2022 <sup>[\[5\]](#colab-usf-vis)</sup>
 
-**Jennifer Adorno**, Steven Diaz Hernandez, Mark Di Sano, “Stroke Classification of Tennis Players”, 2016
+Stroke Classification of Tennis Players” • **Jennifer Adorno**, Steven Diaz Hernandez and Mark Di Sano • 2016
 
 ### Significant Contributions
 
-King, S., Pinder, S., Fernandez-Lanvin, D. et al. Noise signature identification using mobile phones for indoor localization. Multimed Tools Appl (2024). https://doi.org/10.1007/s11042-023-17885-3.
+[Noise signature identification using mobile phones for indoor localization](https://link.springer.com/article/10.1007/s11042-023-17885-3) • Sayde King, Samann Pinder, Daniel Fernandez-Lanvin, Cristian González García, Javier De Andrés and Miguel Labrador • Multimedia Tools and Applications, 2024.
 
-Quadri, Ghulam Jilani, P. Rosen, “Modeling the influence of visual density on cluster perception in scatterplots using topology”, IEEE Transactions on Visualization and Computer Graphics, vol. 27, no. 2, pp. 1829–1839, 2020. <sup>[\[5\]](#colab-usf-vis)</sup>
+[Modeling the influence of visual density on cluster perception in scatterplots using topology](https://ieeexplore.ieee.org/document/9222295) • Ghulam Jilani Quadri and Paul Rosen • IEEE Transactions on Visualization and Computer Graphics, vol. 27, no. 2, pp. 1829–1839, 2020. <sup>[\[5\]](#colab-usf-vis)</sup>
 
 ## Patents & Copyrights
 
