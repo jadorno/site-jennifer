@@ -1,0 +1,43 @@
+{
+    "pages":[
+        {
+            "name": "Home",
+            "url": "/"
+        },{
+            "name": "About",
+            "url": "/about/"
+        },{
+            "name": "CV",
+            "url": "/cv/"
+        },{
+            "name": "Research",
+            "url": "/research/"
+        },{
+            "name": "Skills",
+            "url": "/skills/"
+        }
+    ],
+    "links":[
+        {
+            "name": "LinkedIn",
+            "icon": "fab fa-fw fa-linkedin-in",
+            "url": "https://www.linkedin.com/in/jenniferadorno/"
+        },{
+            "name": "Google Scholar",
+            "icon": "fas fa-fw fa-link",
+            "url": "https://scholar.google.com/citations?user=9AZVy5MAAAAJ&hl=en&oi=ao"
+        },{
+            "name": "ORCID",
+            "icon": "fab fa-orcid",
+            "url": "https://orcid.org/0000-0002-6511-694X"
+        },{
+            "name": "GitHub",
+            "icon": "fab fa-fw fa-github-alt",
+            "url": "https://github.com/jadorno"
+        },{
+            "name": "Bluesky",
+            "icon": "fab fa-fw fa-twitter",
+            "url": "https://bsky.app/profile/jadorno.bsky.social"
+        }        
+    ]
+}

@@ -1,6 +1,6 @@
 ---
 permalink: /
-author_profile: true
+layout: base.njk
 ---
 
 ## Bio

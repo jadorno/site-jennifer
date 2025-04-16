@@ -1,15 +1,15 @@
 {
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "bundle exec jekyll serve",
+			"label": "npm run start",
 			"type": "shell",
-			"command": "bundle exec jekyll serve --livereload"
+			"command": "npm run start"
 		},
 		{
-			"label": "bundle exec jekyll build",
+			"label": "npm run build",
 			"type": "shell",
-			"command": "bundle exec jekyll build"
+			"command": "npm run build"
 		}
 	]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "site-jennifer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass --watch _includes/sass:build/assets/css",
+    "build:sass": "sass _includes/sass:build/assets/css",
+    "watch:eleventy": "eleventy --serve",
+    "build:eleventy": "eleventy",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "bootstrap": "^5.3.5",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.86.3"
+  }
+}

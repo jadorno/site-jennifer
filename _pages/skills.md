@@ -1,5 +1,7 @@
 ---
 permalink: /skills/
+layout: base.njk
+
 ---
 
 ## Hi, I'm [Jennifer Adorno](https://jadorno.com) 👋

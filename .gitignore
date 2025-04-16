@@ -1,4 +1,5 @@
-.jekyll-cache
 build
 ._*
 .DS_Store
+node_modules
+assets/webfonts/fa-*

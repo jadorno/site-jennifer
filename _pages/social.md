@@ -1,5 +1,6 @@
 ---
 permalink: /social/
+layout: base.njk
 ---
 
 ## Disclaimer

@@ -1,24 +1,22 @@
-FROM debian:bullseye as build
+FROM debian:bookworm as build
 
 ARG DEBIAN_FRONTEND=noninteractive
 
-RUN apt update && apt upgrade -y \
-    && apt-get install -y --no-install-recommends ruby-full build-essential zlib1g-dev \
+RUN apt update \
+    && curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - \
+    && apt-get install -y --no-install-recommends nodejs \
     && rm -rf /var/lib/apt/lists/*
-
-RUN gem install bundler \
-    && bundle config --global frozen 1 \
-    && gem install jekyll
 
 WORKDIR /workspaces/site-jennifer
 
-COPY .devcontainer/Gemfile /workspaces/site-jennifer/Gemfile
-COPY .devcontainer/Gemfile.lock /workspaces/site-jennifer/Gemfile.lock
-RUN bundle install
+COPY package-lock.json /workspaces/site-jennifer/package-lock.json
+COPY package.json /workspaces/site-jennifer/package.json
+RUN npm install
 
 COPY . /workspaces/site-jennifer
 
-RUN bundle exec jekyll build
+RUN npm run build \
+    && cp -Rv /workspaces/site-jennifer/node_modules/@fortawesome/fontawesome-free/webfonts assets/
 
 FROM nginx:stable-alpine
 

@@ -1,0 +1,34 @@
+// Google Fonts 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+// Font Awesome
+$fa-font-path: '../webfonts';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/solid.scss';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/brands.scss';
+
+// Bootstrap
+$body-bg-dark: #000000;
+$font-family-sans-serif: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-size-base: 1.15rem;
+$h1-font-size: $font-size-base * 1.65;
+$h2-font-size: $font-size-base * 1.55;
+$h3-font-size: $font-size-base * 1.45;
+$h4-font-size: $font-size-base * 1.35;
+$h5-font-size: $font-size-base * 1.25;
+$h6-font-size: $font-size-base;
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+h1, h2, h3, h4 {
+  font-weight: 700;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}

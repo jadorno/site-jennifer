@@ -1,5 +1,6 @@
 ---
 permalink: /cv/
+layout: base.njk
 ---
 
 # Curriculum Vitae

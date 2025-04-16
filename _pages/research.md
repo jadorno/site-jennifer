@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-classes: wide
+layout: base.njk
 ---
 
 ## Research Projects
