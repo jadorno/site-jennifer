@@ -1,6 +1,7 @@
 ---
+title: Home
 permalink: /
-layout: base.njk
+layout: layouts/double-column.njk
 ---
 
 ## Bio

@@ -1,6 +1,7 @@
 ---
+title: About Me
 permalink: /about/
-layout: base.njk
+layout: layouts/double-column.njk
 ---
 
 #### Under Construction

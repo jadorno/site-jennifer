@@ -1,0 +1,40 @@
+---
+layout: template-base.njk
+---
+
+<div class="container my-5 g-5 g-md-1">
+  <div class="row">
+    <div class="col-md-4">
+      
+      <div class="mb-3" style="max-width:250px;">
+        <img src="/assets/images/profile.jpeg" class="rounded img-fluid" />
+      </div>
+      <h1>Jennifer Adorno, Ph.D.</h1>
+      <a href="https://pronouns.org/what-and-why" rel="nofollow noopener noreferrer">she/her/hers</a>
+      <p>Research Scientist <br /> Systems Architect</p>
+
+        {% for entry in header.links %}
+        <a href="{{ entry.url }}" rel="nofollow noopener noreferrer">
+          <i class="{{ entry.icon }}" aria-hidden="true"></i>
+          <span class="label">{{ entry.name }}</span>
+        </a>
+      {% endfor %}
+
+      <hr />
+
+      {% for entry in header.pages %}
+        {% if entry.url === page.url %}
+          <span style="margin-right:5px;">{{ entry.name }}</span>
+        {% else %}
+          <a style="margin-right:5px;" href="{{ entry.url }}" rel="nofollow noopener noreferrer">{{ entry.name }}</a>
+        {% endif %}
+      {% endfor %}
+
+      <hr />
+
+    </div>
+    <div class="col-md-8 my-md-5">
+      {{ content | safe }}
+    </div>
+  </div>
+</div>

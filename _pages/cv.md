@@ -1,6 +1,7 @@
 ---
+title: Curriculum Vitae
 permalink: /cv/
-layout: base.njk
+layout: layouts/single-column.njk
 ---
 
 # Curriculum Vitae

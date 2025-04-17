@@ -1,6 +1,7 @@
 ---
+title: Skills
 permalink: /skills/
-layout: base.njk
+layout: layouts/double-column.njk
 
 ---
 

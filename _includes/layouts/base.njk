@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    
+    <meta name="description" content="">
+    <meta name="author" content="Jennifer Adorno">
+
+    <meta property="og:type" content="profile">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Jennifer Adorno">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:image" content="https://jennifer.adorno.me/assets/images/profile.jpeg">
+    <meta property="og:url" content="https://jennifer.adorno.me/">
+
+    <meta property="profile:first_name" content="Jennifer">
+    <meta property="profile:last_name" content="Adorno">
+    <meta property="profile:gender" content="female">
+    <meta property="profile:username" content="jadorno">
+
+    <meta name="twitter:site" content="@jadorno">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:url" content="https://jennifer.adorno.me/">
+    <meta name="twitter:creator" content="@jadorno">
+    <meta name="twitter:card" content="profile">
+    <meta name="twitter:image" content="https://jennifer.adorno.me/assets/images/profile.jpeg">
+
+    <link rel="canonical" href="https://jennifer.adorno.me/">
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "url": "https://jennifer.adorno.me/",
+        "name": "Research Scientist and Systems Architect",
+    }
+    </script>
+
+    <link rel="stylesheet" href="/assets/css/app.css">
+
+  </head>
+  <body>
+    {{ content | safe }}
+    <script src="/assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+

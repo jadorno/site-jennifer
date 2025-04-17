@@ -1,6 +1,7 @@
 ---
+title: Social
 permalink: /social/
-layout: base.njk
+layout: layouts/double-column.njk
 ---
 
 ## Disclaimer

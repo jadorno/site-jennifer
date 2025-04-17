@@ -1,6 +1,7 @@
 ---
+title: Research
 permalink: /research/
-layout: base.njk
+layout: layouts/double-column.njk
 ---
 
 ## Research Projects
