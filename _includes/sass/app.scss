@@ -20,8 +20,12 @@ $h6-font-size: $font-size-base;
 
 @import '../../node_modules/bootstrap/scss/bootstrap';
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   font-weight: 700;
+}
+h2, h3, h4, h5 {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 a:link {
   text-decoration: none;
