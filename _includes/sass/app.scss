@@ -27,12 +27,18 @@ h2, h3, h4, h5 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-a:link {
-  text-decoration: none;
-}
-a:visited {
+
+a:link, a:visited {
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
 }
+
+a.header-anchor:link, a.header-anchor:visited, a.header-anchor:hover {
+  color: var(--theme-color);
+  text-decoration: none;
+}
+
+
+
