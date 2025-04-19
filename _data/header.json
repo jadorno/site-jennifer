@@ -20,23 +20,23 @@
     "links":[
         {
             "name": "LinkedIn",
-            "icon": "fab fa-fw fa-linkedin-in",
+            "icon": "si si-linkedin",
             "url": "https://www.linkedin.com/in/jenniferadorno/"
         },{
             "name": "Google Scholar",
-            "icon": "fas fa-fw fa-link",
+            "icon": "si si-googlescholar",
             "url": "https://scholar.google.com/citations?user=9AZVy5MAAAAJ&hl=en&oi=ao"
         },{
             "name": "ORCID",
-            "icon": "fab fa-orcid",
+            "icon": "si si-orcid",
             "url": "https://orcid.org/0000-0002-6511-694X"
         },{
             "name": "GitHub",
-            "icon": "fab fa-fw fa-github-alt",
+            "icon": "si si-github",
             "url": "https://github.com/jadorno"
         },{
             "name": "Bluesky",
-            "icon": "fab fa-fw fa-twitter",
+            "icon": "si si-bluesky",
             "url": "https://bsky.app/profile/jadorno.bsky.social"
         }        
     ]

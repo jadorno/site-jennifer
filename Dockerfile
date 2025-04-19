@@ -16,7 +16,7 @@ RUN npm install
 COPY . /workspaces/site-jennifer
 
 RUN npm run build \
-    && cp -Rv /workspaces/site-jennifer/node_modules/@fortawesome/fontawesome-free/webfonts assets/
+    && cp -Rv /workspaces/site-jennifer/node_modules/simple-icons-font/font/* assets/css/simple-icons/
 
 FROM nginx:stable-alpine
 

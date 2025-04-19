@@ -14,7 +14,7 @@ layout: layouts/base.njk
       <p>Research Scientist <br /> Systems Architect</p>
 
         {% for entry in header.links %}
-        <a href="{{ entry.url }}" rel="nofollow noopener noreferrer">
+        <a class="header-icon" href="{{ entry.url }}" rel="nofollow noopener noreferrer">
           <i class="{{ entry.icon }}" aria-hidden="true"></i>
           <span class="label">{{ entry.name }}</span>
         </a>
