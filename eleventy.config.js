@@ -1,22 +1,19 @@
 const md = require('markdown-it')
 const anchor = require('markdown-it-anchor')
 
-module.exports = (eleventyConfig) => {
+module.exports = async function(eleventyConfig) {
   let mdOptions = {
     html: true
   }
   let anchorOptions = {
     level: 2,
-    permalink: anchor.permalink.headerLink({ 
-      safariReaderFix: true 
-    })
+    permalink: undefined
   }
   eleventyConfig.setLibrary("md", md(mdOptions).use(anchor, anchorOptions))
   eleventyConfig.addPassthroughCopy({ "assets": "assets" });
   eleventyConfig.addPassthroughCopy({ 
     "node_modules/bootstrap/dist/js": "assets/js/bootstrap" 
   });
-  eleventyConfig.addWatchTarget("./assets/");
   eleventyConfig.setBrowserSyncConfig({
 		files: './build/assets/css/**/*.css'
 	});
