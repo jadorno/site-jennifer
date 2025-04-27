@@ -13,23 +13,15 @@ layout: layouts/base.njk
       <a href="https://pronouns.org/what-and-why" rel="nofollow noopener noreferrer">she/her/hers</a>
       <p>Research Scientist <br /> Systems Architect</p>
 
-        {% for entry in header.links %}
-        <a class="header-icon" href="{{ entry.url }}" rel="nofollow noopener noreferrer">
-          <i class="{{ entry.icon }}" aria-hidden="true"></i>
-          <span class="label">{{ entry.name }}</span>
-        </a>
+      {% for entry in header.links %}
+      <a class="header-icon" href="{{ entry.url }}" rel="nofollow noopener noreferrer">
+        <svg><use href="/assets/icons.svg#{{ entry.icon }}" aria-hidden="true"/></svg>
+        <span class="label">{{ entry.name }}</span>
+      </a>
       {% endfor %}
 
       <hr />
-
-      {% for entry in header.pages %}
-        {% if entry.url === page.url %}
-          <span style="margin-right:5px;">{{ entry.name }}</span>
-        {% else %}
-          <a style="margin-right:5px;" href="{{ entry.url }}" rel="nofollow noopener noreferrer">{{ entry.name }}</a>
-        {% endif %}
-      {% endfor %}
-
+      {% include 'layouts/navigation.njk' %}
       <hr />
 
     </div>

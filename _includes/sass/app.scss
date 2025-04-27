@@ -1,8 +1,5 @@
-// Google Fonts 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
-@import '/assets/css/simple-icons/simple-icons.min.css';
 
-// Bootstrap
 $body-bg-dark: #000000;
 $font-family-sans-serif: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-size-base: 1.15rem;
@@ -23,24 +20,27 @@ h2, h3, h4, h5 {
   padding-bottom: 10px;
 }
 
-a:link, a:visited {
+a:link, a:visited, a:hover {
   text-decoration: none;
 }
-a:hover {
-  text-decoration: underline;
-}
-
-a.header-anchor:link, a.header-anchor:visited, a.header-anchor:hover {
-  text-decoration: none;
-  color: var(--theme-color);
-}
-a.header-anchor:link, a.header-anchor:visited, a.header-anchor:hover {
-  text-decoration: none;
-  color: var(--theme-color);
-}
-
 a.header-icon:link, a.header-icon:visited, a.header-icon:hover {
   text-decoration: none;
   white-space: nowrap;
   padding-right: 5px;
+}
+
+.simple-icon {
+  white-space: nowrap;
+  display: inline-block;
+  padding-right: 10px;
+  padding-top: 10px;
+  color: var(--bs-body-color);
+}
+.simple-icon > svg, .header-icon > svg {
+  height: $font-size-base;
+  width: $font-size-base;
+  fill: var(--bs-body-color);
+}
+.header-icon > svg {
+  fill: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
 }

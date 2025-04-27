@@ -1,0 +1,7 @@
+{% for entry in header.pages %}
+  {% if entry.url === page.url %}
+    <span style="margin-right:5px;">{{ entry.name }}</span>
+  {% else %}
+    <a style="margin-right:5px;" href="{{ entry.url }}" rel="nofollow noopener noreferrer">{{ entry.name }}</a>
+  {% endif %}
+{% endfor %}

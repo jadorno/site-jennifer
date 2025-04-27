@@ -5,19 +5,9 @@ layout: layouts/base.njk
 <div class="container my-5 g-5 g-md-1">
   <div class="row">
     <div class="col-10 mx-auto">
-      
       <hr />
-
-      {% for entry in header.pages %}
-        {% if entry.url === page.url %}
-          <span style="margin-right:5px;">{{ entry.name }}</span>
-        {% else %}
-          <a style="margin-right:5px;" href="{{ entry.url }}" rel="nofollow noopener noreferrer">{{ entry.name }}</a>
-        {% endif %}
-      {% endfor %}
-
+      {% include 'layouts/navigation.njk' %}
       <hr />
-
     </div>
     <div class="col-10 mx-auto">
       {{ content | safe }}

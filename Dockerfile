@@ -15,8 +15,8 @@ RUN npm install
 
 COPY . /workspaces/site-jennifer
 
-RUN npm run build \
-    && cp -Rv /workspaces/site-jennifer/node_modules/simple-icons-font/font/* assets/css/simple-icons/
+RUN bash scripts/build-svg.bash > assets/icons.svg \
+    && npm run build
 
 FROM nginx:stable-alpine
 
