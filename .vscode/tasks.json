@@ -5,11 +5,14 @@
 			"label": "npm run start",
 			"type": "shell",
 			"command": "npm run start"
-		},
-		{
+		},{
 			"label": "npm run build",
 			"type": "shell",
 			"command": "npm run build"
+		},{
+			"label": "Build & Upload Container (SSH only)",
+			"type": "shell",
+			"command": "bash scripts/build-upload-container.bash"
 		}
 	]
 }
