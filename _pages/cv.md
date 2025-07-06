@@ -10,7 +10,7 @@ layout: layouts/single-column.njk
 
 **Doctorate in Computer Science and Engineering**<br/>
 University of South Florida (2017 - 2023)<br/>
-Thesis: Refining the machine learning pipeline for US-based public transit systems<br/>
+Thesis: [Refining the machine learning pipeline for US-based public transit systems](https://www.proquest.com/openview/bf9e1e63f7c0fce0864f03b2168bb2f9/1?cbl=18750&diss=y&pq-origsite=gscholar)<br/>
 Advisors: Miguel Labrador (2017 - 2021), Sean Barbeau (2017 - 2022), Jay Ligatti (2022 - 2023)<br/>
 
 **Masters of Science in Computer Science**<br/>
@@ -39,9 +39,11 @@ UPR-B Physics Department (2014 - 2015) <sup><a id="colab-uprb-phy">[9]</a></sup>
 
 ## Publications
 
-### Peer-Reviewed
+### Under Review
 
-Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accelerated Reflex Memory • Pavia Bera, Sabrina Hassan Moon, **Jennifer Adorno**, Dayane Alfenas Reis, and Sanjukta Bhanja • Neurocomputing, 2025 (Submitted) <sup>[\[1\]](#colab-usf-ncrg)</sup>
+Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accelerated Reflex Memory • Pavia Bera, Sabrina Hassan Moon, **Jennifer Adorno**, Dayane Alfenas Reis, and Sanjukta Bhanja • Neurocomputing, 2025 <sup>[\[1\]](#colab-usf-ncrg)</sup>
+
+### Peer-Reviewed
 
 [Do You See What I See? A Qualitative Study Eliciting High-Level Visualization Comprehension](https://dl.acm.org/doi/10.1145/3613904.3642813) • Ghulam Jilani Quadri, Arran Zeyu Wang, Zhehao Wang, **Jennifer Adorno**, Paul Rosen, and Danielle Szafir • CHI Conference on Human Factors in Computing Systems, 2024. <sup>[\[4\]](#colab-unc-vis)</sup>
 
@@ -65,7 +67,7 @@ Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accel
 
 [A Case-Study on Variations Observed in Accelerometers Across Devices](https://arxiv.org/abs/2207.03350) • Carlos Alvarado, Ghulam Jilani Quadri, **Jennifer Adorno** and Paul Rosen • CoRR abs/2207.03350, 2022 <sup>[\[5\]](#colab-usf-vis)</sup>
 
-Stroke Classification of Tennis Players” • **Jennifer Adorno**, Steven Diaz Hernandez and Mark Di Sano • 2016
+Stroke Classification of Tennis Players • **Jennifer Adorno**, Steven Diaz Hernandez and Mark Di Sano • 2016
 
 ### Significant Contributions
 
