@@ -3,8 +3,10 @@ FROM debian:bookworm as build
 ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt update \
-    && curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash - \
-    && apt-get install -y --no-install-recommends nodejs \
+    && apt install -y --no-install-recommends wget ca-certificates \
+    && wget "https://deb.nodesource.com/setup_18.x" -O /tmp/setup_18.x \
+    && bash /tmp/setup_18.x \
+    && apt install -y --no-install-recommends nodejs \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /workspaces/site-jennifer
