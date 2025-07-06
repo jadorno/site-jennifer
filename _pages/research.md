@@ -4,10 +4,15 @@ permalink: /research/
 layout: layouts/double-column.njk
 ---
 
-## Research Projects
+## Research
 
+### Interests
 
-### Improving Bus Arrival Estimates
+assistive technologies, ubiquitous sensing, accessibility, computer science education, human computer interaction, smart and connected health, pervasive computing
+
+### Projects
+
+##### Improving Bus Arrival Estimates
 
 University of South Florida & Center for Urban Transportation Research (08/2017 – 10/2023)
 
@@ -15,7 +20,7 @@ University of South Florida & Center for Urban Transportation Research (08/2017 
 - Our approach has several strengths over the standard machine learning pipeline such as unattended real-time data collection over several cities, raw-data archiving and high-speed access to unstructured data structures. These improvements allow us to focus our attention on improving estimates by refining the feature extraction process in addition to parameter tuning for algorithms.
 
 
-### Reducing Patient Readmissions in Heart Failure Patients
+##### Reducing Patient Readmissions in Heart Failure Patients
 
 University of South Florida (College of Engineering & College of Nursing) (05/2017 – current)
 
@@ -23,42 +28,42 @@ University of South Florida (College of Engineering & College of Nursing) (05/20
 - Our research focuses on identifying and applying novel intervention strategies in order to evaluate their efficacy. 
   
 
-### Cluster Perception and Identification in Scatterplots
+##### Cluster Perception and Identification in Scatterplots
 
 University of South Florida (Location-Aware Information Systems Lab & Graphics and Visualization Lab) (01/2020 – 12/2022)
 
 - This work focused on understanding the visual perception of clusters by observers across several sampling methods, visual encoding methods and datasets. The results where then generalized and used to determine the optimal encoding parameters for a given dataset.
 
 
-### Pulmonary Disease Audio Classification
+##### Pulmonary Disease Audio Classification
 
 University of South Florida (Location-Aware Information Systems Lab) (01/2019 – 08/2019)
 
 - Applied research directed towards capturing and classifying pulmonary sounds to diagnose chronic obstructive pulmonary disease (COPD) and Heart Failure (HF) using mobile phones.
 
 
-### Tennis Stroke Classification
+##### Tennis Stroke Classification
 
 University of South Florida (Location-Aware Information Systems Lab) (05/2016 – 05/2017)
 
 - The project was focused on performing activity recognition in the sport of tennis using Inertial Measurement Units (IMU). Secondary objectives included determining the optimal position to wear IMUs while playing the sport and creating graphical labeling software for accelerometer and gyroscope data. We achieved a 95% classification accuracy between 7 types of segmented tennis strokes. 
 
 
-### Autonomous Robot Navigation
+##### Autonomous Robot Navigation
 
 University of Puerto Rico (Computer Science Department & Electrical Engineering Department) (08/2015 – 12/2015)
 
 - Early stages of a project aiming to develop a self navigating robot that would perform collision avoidance using a stereoscopic camera. My relation to the project extended to generating depth maps and estimating the distance of regions in the robot’s field of view.
 
 
-### Floor Detection on Unstructured Environments
+##### Floor Detection on Unstructured Environments
 
 University of South Florida (Location-Aware Information Systems Lab) (05/2015 – 07/2015)
 
 - This project was meant to serve as a module of a larger fall prevention system for visually impaired and elderly people. It focused on determining the ground in images retrieved from the camera of a mobile phone using computer vision techniques in real-time.  
     
 
-### Lightning Detection and Monitoring System (PRLDN)
+##### Lightning Detection and Monitoring System (PRLDN)
 
 University of Puerto Rico & NASA Puerto Rico Space Grant Consortium (12/2014 – 12/2015)
 
