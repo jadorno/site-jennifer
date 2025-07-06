@@ -98,7 +98,7 @@ Courses: Introduction to Artificial Intelligence (graduate & undergraduate), Int
 
 ## Technical Roles
 
-**Software Systems Architect**<br/>
+**HPC/VDI Systems Architect**<br/>
 University of South Florida (2024) <sup>[\[2\]](#colab-usf-qcg)[\[3\]](#colab-usf-cseit)</sup><br/>
 Services: virtualized software labs, remote hardware labs, high-performance computing systems
 
@@ -114,11 +114,11 @@ Services: linux server administration, network administration, virtualization, p
 University of South Florida (2017 - 2023) <sup>[\[5\]](#colab-usf-vis)[\[6\]](#colab-usf-nursing)[\[7\]](#colab-usf-cutr)</sup><br/>
 Services: continuous delivery (CD) pipelines, artifacts generation, container infrastructure management, data security, service migrations, hosting, long-term support
 
-**Software Engineer** (as Research Assistant & Graduate Assistant)<br/>
+**Research Software Engineer** (as Research Assistant & Graduate Assistant)<br/>
 University of South Florida (2016 - 2021) <sup>[\[5\]](#colab-usf-vis)[\[6\]](#colab-usf-nursing)[\[7\]](#colab-usf-cutr)</sup><br/>
 Services: ubiquitous sensing data capture and analysis, mobile application development, single page application (SPA) development, design, authentication, encryption, third-party integrations, full-stack software development
 
-**Software Engineer** (as Research Assistant)<br/>
+**Research Software Engineer** (as Research Assistant)<br/>
 University of Puerto Rico (2014 - 2015) <sup>[\[8\]](#colab-uprb-cs)[\[9\]](#colab-uprb-phy)</sup><br/>
 Services: computer graphics development, data archiving, real-time data analysis, data mining, computer vision development
 
