@@ -1,5 +1,5 @@
 ---
-title: Skills
+title: Skills - Jennifer Adorno, PhD
 permalink: /skills/
 layout: layouts/double-column.njk
 languages-databases:

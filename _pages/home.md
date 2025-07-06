@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Jennifer Adorno, PhD
 permalink: /
 layout: layouts/double-column.njk
 ---

@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: Curriculum Vitae - Jennifer Adorno, PhD
 permalink: /cv/
 layout: layouts/single-column.njk
 ---

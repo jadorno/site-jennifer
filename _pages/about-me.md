@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Me - Jennifer Adorno, PhD
 permalink: /about/
 layout: layouts/double-column.njk
 ---

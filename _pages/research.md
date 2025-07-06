@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research - Jennifer Adorno, PhD
 permalink: /research/
 layout: layouts/double-column.njk
 ---
