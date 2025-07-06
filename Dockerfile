@@ -11,13 +11,10 @@ RUN apt update \
 
 WORKDIR /workspaces/site-jennifer
 
-COPY package-lock.json /workspaces/site-jennifer/package-lock.json
-COPY package.json /workspaces/site-jennifer/package.json
-RUN npm install
-
 COPY . /workspaces/site-jennifer
 
-RUN bash scripts/build-svg.bash > assets/icons.svg \
+RUN npm install \
+    && bash scripts/build-svg.bash > assets/icons.svg \
     && npm run build
 
 FROM nginx:stable-alpine
